@@ -2,7 +2,7 @@
 
 This project is a modern and stylish webpage showcasing headphones, designed to provide users with an immersive experience and easy navigation. It utilizes the latest web technologies to deliver a seamless browsing experience.
 
-![Page Headphones Preview](https://huy-cell.github.io/Web-Headphones/)
+[🎧 Check out the live demo here!](https://huy-cell.github.io/Web-Headphones/)
 
 ## Technologies Used
 - **HTML5**: Utilized for structuring the webpage, providing a solid foundation for content.
